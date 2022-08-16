@@ -1,0 +1,2 @@
+1. GFG Linkedlist - https://www.geeksforgeeks.org/data-structures/linked-list/
+2. Linked list set-one - https://www.geeksforgeeks.org/linked-list-set-1-introduction/
